@@ -14,8 +14,8 @@ body{
 	align-items: center;
 }
 canvas {
-	width: 300px;
-	height: 400px;
+	width: 800px;
+	height: 600px;
 	background-color: white;
 	border-radius: 10px;
 }
@@ -32,10 +32,10 @@ canvas {
 	align-items: center;
 }
 .color-option {
-	width: 50px;
-	height: 50px;
+	width: 30px;
+	height: 30px;
 	cursor: pointer;
-	border-radius: 50px;
+	border-radius: 5px;
 	cursor: pointer;
 	border: 5px solid white;
 	transition: transform ease-in-out .1s;
